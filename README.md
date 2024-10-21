@@ -1,4 +1,4 @@
-# Snapp (Fake) 🚀
+# FakeSnapp 🚀
 
 Snapp is a web application that provides an admin panel for managing customers and drivers. Built with Filament, this project allows admins to add, edit, and manage user data efficiently. All data is stored in a database, ensuring reliable data management.
 
