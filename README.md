@@ -34,7 +34,7 @@ This project follows the MVC architecture to maintain a clear separation of conc
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/snapp-fake.git
+    git clone https://github.com/callmedeci/FakeSnapp.git
     cd snapp-fake
     ```
 2. Install PHP dependencies:
